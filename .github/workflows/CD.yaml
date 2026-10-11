@@ -6,7 +6,7 @@ on:
     branches:
       - main
   workflow_dispatch: # lets you trigger a deploy manually from the Actions tab
-
+  
 env:
   AWS_REGION: us-east-1
 
